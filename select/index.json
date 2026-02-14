@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "閃より雷や、更りや高き",
+  "base_artist": "丁",
+  "createdAt": "2026-02-14T22:53:25.586219Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "閃より雷や、更りや高き",
+      "artist": "丁",
+      "has_synced": false,
+      "path": "select/pl_01_閃より雷や、更りや高き_丁.txt"
+    }
+  ]
+}
